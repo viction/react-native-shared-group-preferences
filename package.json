@@ -1,6 +1,6 @@
 {
   "name": "react-native-shared-group-preferences",
-  "version": "1.1.16",
+  "version": "1.1.17",
   "description": "#### Forked from https://github.com/KjellConnelly/react-native-shared-group-preferences",
   "main": "index",
   "scripts": {
@@ -17,5 +17,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/viction/react-native-shared-group-preferences.git"
-  }
+  },
+  "homepage": "https://github.com/KjellConnelly/react-native-shared-group-preferences#readme"
 }
